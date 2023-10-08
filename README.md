@@ -1,2 +1,2 @@
-# Bank_System
+# Application
 **ХУЙ**
